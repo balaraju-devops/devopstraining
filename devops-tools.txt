@@ -1,0 +1,7 @@
+git 
+maven
+jenkins
+conartube
+jfrog
+docker
+kubernets
