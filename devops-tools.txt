@@ -1,7 +1,9 @@
-git 
-maven
-jenkins
-conartube
+git and github
+maven it is a build tool
+sonerqube testing tool 
+jenkins automation flatform
+kubernets
 jfrog
 docker
-kubernets
+terraform
+cloud and aws
