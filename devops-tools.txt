@@ -8,4 +8,4 @@ docker
 terraform
 cloud and aws
 to day i am lerninng jenkins
-2 day
+2 day of
