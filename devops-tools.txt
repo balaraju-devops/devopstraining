@@ -1,7 +1,19 @@
-git 
-maven
-jenkins
-conartube
+git and github
+maven it is a build tool
+sonerqube testing tool 
+jenkins automation flatform
+kubernets
 jfrog
 docker
-kubernets
+terraform
+cloud and aws
+<<<<<<< HEAD
+3 day
+=======
+to day i am lerninng jenkins
+2 day of
+>>>>>>> d8d67c97fad457ff673bccbe9f4a6923f9510d9a
+3 day
+i really dont know
+how are you ra fool
+hi bal hi bala a is no thing to fear you need just know basics thats all
