@@ -18,8 +18,7 @@ i really dont know
 how are you ra fool
 hi bal hi bala a is no thing to fear you need just know basics thats all
 <<<<<<< HEAD
-hi 
-bala how are you feeling
+hi bala how are you feeling
 =======
 hi ra kukka
 >>>>>>> origin/balaraju-devops-patch-1
